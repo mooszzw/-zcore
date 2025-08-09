@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/admin/Desktop/zcore",
-      "program": "c:/Users/admin/Desktop/zcore/build/Debug/outDebug",
+      "cwd": "c:/Users/admin/Desktop/zcore/zcore",
+      "program": "c:/Users/admin/Desktop/zcore/zcore/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
