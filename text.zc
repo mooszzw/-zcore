@@ -1,0 +1,4 @@
+#include <zcstd>
+{printf("hello world");}
+
+
