@@ -1,2 +1,6 @@
 #include{<zcstd>}
-main(){print("hello world");}
+main()
+{
+    // This is a comment
+    print("hello world");
+}
