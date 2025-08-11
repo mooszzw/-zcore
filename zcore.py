@@ -1,10 +1,5 @@
 import os
 
-#zcore代码格式
-#  #include{库1;库2;...}
-#  main(){代码}
-#
-
 #keywords
 keywords = ["print","include"]
 #keyword explain

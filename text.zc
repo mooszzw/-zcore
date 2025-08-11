@@ -1,4 +1,4 @@
 #include <zcstd>
-{printf("hello world");}
+printf("hello world");
 
 
